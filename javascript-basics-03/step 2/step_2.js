@@ -5,7 +5,7 @@ var text  = document.getElementById('texte')
 
 function show_hide (showBtn , hideBtn , targetText) {
     hideBtn.onclick =  function () {
-        text.style.display = 'none'
+        targetText.style.display = 'none'
     }
     showBtn.onclick = function () {
         targetText.style.display = 'block'
