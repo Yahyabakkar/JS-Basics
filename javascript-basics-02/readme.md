@@ -7,7 +7,7 @@
 ## References
 
 - https://www.codecademy.com/learn/learn-javascript
-- http://eloquentjavascript.net/
+- http://eloquentjavascri pt.net/
 - https://learnxinyminutes.com/docs/javascript/
 
 ## Goals:
